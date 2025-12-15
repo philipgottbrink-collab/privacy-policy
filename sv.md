@@ -148,4 +148,4 @@ Vid frågor om denna integritetspolicy:
 
 Tack för att du använder **Discipler**.
 
-📄 [Read this privacy policy in English](index.html)
+📄 [Read this privacy policy in English](index.md)

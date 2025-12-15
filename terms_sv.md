@@ -1,128 +1,139 @@
-Användarvillkor för Discipler
+# Användarvillkor för Discipler
 
-Senast uppdaterad: 15 december 2025
-Företag: Clearlane Development AB
-Jurisdiktion: Sverige
-E-post: discipler.app@gmail.com
+**Senast uppdaterad:** 15 december 2025  
+**Företag:** Clearlane Development AB  
+**Jurisdiktion:** Sverige  
+**E-post:** discipler.app@gmail.com
 
-⸻
+---
 
-1. Introduktion
+## 1. Introduktion
 
-Välkommen till Discipler, en kristen community- och discipleskapsapp utvecklad av Clearlane Development AB. Dessa Användarvillkor (“Villkor”) reglerar din användning av mobilapplikationen Discipler (”Appen”).
+Välkommen till **Discipler**, en kristen community- och discipleskapsapp utvecklad av **Clearlane Development AB**.  
+Dessa Användarvillkor (“Villkor”) reglerar din användning av mobilapplikationen Discipler (“Appen”).
 
 Genom att använda Appen accepterar du dessa Villkor. Om du inte accepterar dem, använd inte Appen.
 
-⸻
+---
 
-2. Behörighet
+## 2. Behörighet
 
 Du kan använda Discipler:
-	•	Om du är 13 år eller äldre
-	•	Om du är under 16 år kan din förälder eller vårdnadshavare behöva ge samtycke beroende på ditt land
 
-Discipler är avsedd att vara en familjevänlig, respektfull plattform, särskilt lämpad för kristna communities.
+- Om du är **13 år eller äldre**
+- Om du är under **16 år** kan förälder eller vårdnadshavare behöva ge samtycke
 
-⸻
+Discipler är avsedd att vara en **familjevänlig och respektfull plattform**, särskilt lämpad för kristna communities.
 
-3. Användarkonton
+---
 
-Du kan använda Appen utan att skapa ett konto. Vissa funktioner (t.ex. att posta eller interagera med andra användare) kräver registrering via:
-	•	Apple Sign-In
-	•	Google Sign-In
-	•	E-post & telefonverifiering
+## 3. Användarkonton
 
-Du är ansvarig för säkerheten av dina kontouppgifter.
+Du kan använda Appen utan att skapa ett konto.  
+Vissa funktioner kräver dock registrering via:
 
-⸻
+- Apple Sign-In  
+- Google Sign-In  
+- E-post och telefonverifiering  
 
-4. Användarinnehåll och communityregler
+Du ansvarar för säkerheten kring dina kontouppgifter.
 
-Discipler tillåter dig att posta:
-	•	Ljudfiler
-	•	Event
-	•	Platsbaserat innehåll (valfritt)
-	•	Länkar till ditt externa innehåll (t.ex. YouTube, Instagram)
+---
+
+## 4. Användarinnehåll och communityregler
+
+Discipler tillåter publicering av:
+
+- Ljudfiler  
+- Event  
+- Platsbaserat innehåll (valfritt)  
+- Länkar till externt innehåll (t.ex. YouTube, Instagram)
 
 Du samtycker till att:
-	•	Inte posta vulgärt, stötande, olagligt eller olämpligt innehåll
-	•	Inte utge dig för att vara någon annan
-	•	Inte trakassera eller skada andra användare
-	•	Posta på ett sätt som överensstämmer med respektfulla och kristna värderingar
 
-I framtiden kommer användare kunna rapportera olämpligt innehåll eller beteende. Clearlane Development AB förbehåller sig rätten att ta bort innehåll och blockera användare som bryter mot dessa regler.
+- Inte publicera vulgärt, olagligt eller olämpligt innehåll  
+- Inte utge dig för att vara någon annan  
+- Inte trakassera eller skada andra  
+- Följa **respektfulla och kristna värderingar**
 
-⸻
+Clearlane Development AB förbehåller sig rätten att ta bort innehåll och blockera användare.
 
-5. Valfri platsdelning
+---
 
-Discipler inkluderar en karta som låter användare posta eller se event och andra användares platser — likt en social karta.
+## 5. Valfri platsdelning
+
+Appen innehåller en kartfunktion där användare kan dela eller visa platser.
+
 Du kan välja att:
-	•	Dela din plats
-	•	Ange en fiktiv eller generell plats
-	•	Stänga av platsfunktioner helt
 
-Vi spårar inte din GPS-data i realtid automatiskt utan ditt samtycke.
+- Dela din plats  
+- Ange en fiktiv plats  
+- Stänga av platsfunktioner  
 
-⸻
+Ingen GPS-spårning sker utan ditt samtycke.
 
-6. Prenumerationsfunktioner (framtida)
+---
 
-Appen är för närvarande gratis för enskilda användare. I framtiden kan kyrkor eller organisationer få tillgång till betalda prenumerationsfunktioner, såsom:
-	•	Anpassad branding
-	•	Premiumanalys
-	•	Framhävd placering på kartor
+## 6. Prenumerationsfunktioner (framtida)
 
-När sådana funktioner blir tillgängliga kommer vi att uppdatera Villkoren och tydligt informera om priser.
+Appen är för närvarande gratis.
 
-⸻
+I framtiden kan betalda funktioner införas, exempelvis:
 
-7. Immateriella rättigheter
+- Anpassad branding  
+- Premiumanalys  
+- Framhävd kartplacering  
 
-Allt innehåll som tillhandahålls av Clearlane Development AB, inklusive branding, gränssnittsdesign och backendfunktioner, skyddas av upphovsrätt och immaterialrätt.
+Villkoren uppdateras vid införande.
 
-Du behåller rättigheterna till ditt eget innehåll som du postar, men ger oss en icke-exklusiv licens att visa, lagra och dela det inom Appen.
+---
 
-⸻
+## 7. Immateriella rättigheter
 
-8. Ansvarsbegränsning
+Allt innehåll från **Clearlane Development AB** skyddas av upphovsrätt.
 
-Vi arbetar hårt för att tillhandahålla en säker, respektfull och pålitlig plattform. Dock:
-	•	Vi ansvarar inte för användargenererat innehåll
-	•	Vi garanterar inte att Appen alltid är tillgänglig, säker eller felfri
-	•	Vi ansvarar inte för förluster eller skador som uppstår genom användning av Appen
+Du behåller rättigheterna till ditt innehåll men ger oss rätt att använda det inom Appen.
 
-⸻
+---
 
-9. Avslutning
+## 8. Ansvarsbegränsning
 
-Vi kan avbryta eller avsluta din åtkomst om:
-	•	Du bryter mot dessa Villkor
-	•	Du postar skadligt eller olagligt innehåll
-	•	Du trakasserar eller missbrukar andra användare
+- Vi ansvarar inte för användargenererat innehåll  
+- Vi garanterar inte oavbruten eller felfri drift  
+- Vi ansvarar inte för indirekta skador  
 
-Du kan även begära att ditt konto raderas när som helst.
+---
 
-⸻
+## 9. Avslutning
 
-10. Tillämplig lag
+Åtkomst kan avslutas om du:
 
-Dessa Villkor regleras av svensk lag. Om du bor i ett annat land kan lokala konsumentskyddslagar även gälla.
+- Bryter mot Villkoren  
+- Publicerar olagligt innehåll  
+- Trakasserar andra  
 
-⸻
+Du kan när som helst begära radering av ditt konto.
 
-11. Ändringar av Villkoren
+---
 
-Vi kan uppdatera dessa Villkor när Appen utvecklas eller när lagar ändras. Uppdateringar kommer att publiceras i Appen eller på vår webbplats. Fortsatt användning av Appen innebär att du accepterar de uppdaterade Villkoren.
+## 10. Tillämplig lag
 
-⸻
+Villkoren regleras av **svensk lag**.
 
-12. Kontakta oss
+---
 
-Om du har frågor, kontakta oss på:
-📧 E-post: discipler.app@gmail.com
-📍 Företag: Clearlane Development AB, Sverige
+## 11. Ändringar av Villkoren
 
-⸻
+Villkoren kan uppdateras vid behov.  
+Fortsatt användning innebär godkännande.
 
-📄 Läs dessa användarvillkor på engelska: Terms of Service￼
+---
+
+## 12. Kontakta oss
+
+📧 **E-post:** discipler.app@gmail.com  
+📍 **Företag:** Clearlane Development AB, Sverige
+
+---
+
+📄 **[Read these Terms of Service in English](terms-of-service.md)**

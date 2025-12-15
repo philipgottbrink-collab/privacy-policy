@@ -92,6 +92,5 @@ Company: Clearlane Development AB
 Jurisdiction: Sweden
 
 Thank you for using Discipler.
-
-📄 Läs denna integritetspolicy på svenska: Integritetspolicy
+📄 [Läs denna integritetspolicy på svenska](sv.html)
 
